@@ -1,0 +1,91 @@
+{
+  "name": "getcollabo",
+  "version": "0.2.1",
+  "homepage": "https://getcollabo.io",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.9.1",
+    "@emoji-mart/data": "^1.1.2",
+    "@emoji-mart/react": "^1.1.1",
+    "@glidejs/glide": "^3.5.2",
+    "@headlessui/react": "^1.6.6",
+    "@heroicons/react": "^1.0.5",
+    "@reduxjs/toolkit": "^1.8.3",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.5.2",
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "@tailwindcss/typography": "^0.5.4",
+    "@tanstack/react-query": "^4.26.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.3.0",
+    "@types/glidejs__glide": "^3.4.2",
+    "@types/jest": "^28.1.6",
+    "@types/node": "^18.0.6",
+    "@types/react": "^18.0.15",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/redux-logger": "^3.0.9",
+    "axios": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "emoji-mart": "^5.5.2",
+    "flutterwave-react-v3": "^1.3.0",
+    "markdown-it": "^13.0.1",
+    "moment": "^2.29.4",
+    "rc-slider": "^10.0.1",
+    "react": "^18.2.0",
+    "react-chat-engine-pretty": "^0.1.8",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-emoji-picker": "^1.0.13",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.6.0",
+    "react-input-emoji": "^5.0.2",
+    "react-linkify": "^1.0.0-alpha",
+    "react-paginate": "^8.1.4",
+    "react-redux": "^8.0.2",
+    "react-responsive": "^9.0.2",
+    "react-router-dom": "5.3.3",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.1",
+    "react-use": "^17.4.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "sass": "^1.53.0",
+    "socket.io-client": "^4.6.1",
+    "stream-chat": "^8.5.0",
+    "timeago.js": "^4.0.2",
+    "typescript": "^4.7.4",
+    "uuidv4": "^6.2.13",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-copy-to-clipboard": "^5.0.4",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6"
+  }
+}
